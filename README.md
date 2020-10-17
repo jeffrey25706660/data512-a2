@@ -1,5 +1,5 @@
 # Assignment 2: Bias in data
-
+The goal of this assignment is to perform a self-directed exploratory data analysis and identify potential sources of bias in attack data and aggression data from Wikipedia Talk Corpus.
 
 # Data Sources
 
