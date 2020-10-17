@@ -8,11 +8,11 @@ For each annotated corpora, there are three files:
 
 1. **{attack/aggression}_annotated_comments.tsv**: Raw revisions and derived comments that were labelled by crowdworkers.
 
-2. **{attack/aggression}_annotations.tsv**: Annotations labeled by several crowdworkers for each comment in {attack/aggression/toxicity}_annotated_comments.tsv.
+2. **{attack/aggression}_annotations.tsv**: Annotations labeled by several crowdworkers for each comment in {attack/aggression}_annotated_comments.tsv.
 
-3. **{attack/aggression}_worker_demographics.tsv**: To help understand the generality of the crowd-worker labels, we conducted a survey to get some basic anonymized demographic information about on the crowdworkers who provided the labels.
+3. **{attack/aggression}_worker_demographics.tsv**: Basic anonymized demographic information about on the crowdworkers who provided the labels.
 
-See the License section below for important legal information.
+For complete information of dataset description and schemas, please visit [here](https://meta.wikimedia.org/wiki/Research:Detox/Data_Release)
 
 # Output Schema
 
