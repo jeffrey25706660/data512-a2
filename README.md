@@ -48,6 +48,7 @@ third_party_attack| Indicator for whether the worker thought the comment contain
 other_attack| Indicator for whether the worker thought the comment contains a personal attack but is not quoting attack, a recipient attack or third party attack.|
 attack| The annotation takes on value 0 if the worker selected the option "This is not an attack or harassment" and value 1 otherwise.|
 
+For complete information of attribute description, please visit [here](https://meta.wikimedia.org/wiki/Research:Detox/Data_Release)
 
 # Notes
 
