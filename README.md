@@ -25,6 +25,13 @@ For complete information of dataset description and schemas, please visit [here]
 
 # Output Schema
 The data output (agg_att_data.csv.csv) combines aggression data, attack data, and worker demographics data. It includes nineteen columns with the definition as follows:
+Column | Description | 
+--- | --- |
+rev_id |MediaWiki revision id of the edit that added the comment to a talk page  | 
+comment | Comment text | 
+
+
+
 
 # Notes
 
