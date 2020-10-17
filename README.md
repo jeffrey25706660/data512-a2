@@ -34,10 +34,10 @@ logged_in | Indicator for whether the user who made the comment was logged in. T
 ns | Namespace of the discussion page the comment was made in. Takes on values in {user, article} | 
 sample| Indicates whether the comment came via random sampling of all comments. Takes on values in {random, blocked}|
 split| Takes on values in {train, dev, test}|
-worker_id| Anonymized crowd-worker id.|
+worker_id| Crowd-worker id.|
 gender| Takes a value in {'male', 'female', and 'other'}.|
 english_first_language| Does the crowd-worker describe English as their first language. Takes a value in {0, 1}.|
-age_group| The age group of the crowd-worker. Takes on values in {'Under 18', '18-30', '30-45', '45-60', 'Over 60'}|
+age_group| The age group of the crowd-worker.|
 education|Takes on values in {'none', 'some', 'hs', 'bachelors', 'masters', 'doctorate', 'professional'}.|
 worker_id| Anonymized crowd-worker id.|
 aggression_score| Categorical variable ranging from very aggressive (-2), to neutral (0), to very friendly (2).|
