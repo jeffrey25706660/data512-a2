@@ -1,5 +1,8 @@
 # Assignment 2: Bias in data
-The goal of this assignment is to perform a self-directed exploratory data analysis and identify potential sources of bias in attack data and aggression data from Wikipedia Talk Corpus and describe how such bias could lead to potential unintended negative outcomes using machine learning models.
+
+The annotated datasets from Wikipedia Talk Corpus are used to train machine learning models part of a project called Conversation AI. The trained models can be accessed through [Perspective API](https://github.com/conversationai/perspectiveapi/blob/master/2-api/methods.md)
+
+The goal of this assignment is to perform a self-directed exploratory data analysis and identify potential sources of bias in attack data and aggression data  and describe how such bias could lead to potential unintended negative outcomes using machine learning models.
 
 **Research Question #1**
 
@@ -11,7 +14,6 @@ How does gender affect the labeling behavior in the comments over time?
 
 
 # Data Sources
-The annotated datasets provided here is used to train machine learning models part of a project called Conversation AI. The trained models can be accessed through [Perspective API](https://github.com/conversationai/perspectiveapi/blob/master/2-api/methods.md)
 
 The data sources can be downloaded on [Figshare](https://figshare.com/projects/Wikipedia_Talk/16731), per Wikipedia Detox project [access policy](https://foundation.wikimedia.org/wiki/Open_access_policy). 
 
