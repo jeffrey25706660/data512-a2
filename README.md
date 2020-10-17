@@ -1,13 +1,13 @@
 # Assignment 2: Bias in data
 The goal of this assignment is to perform a self-directed exploratory data analysis and identify potential sources of bias in attack data and aggression data from Wikipedia Talk Corpus and describe how such bias could lead to potential unintended negative outcomes using machine learning models.
 
-Research Question #1
+**Research Question #1
 
-**How does the labelling behavior in the comments change over time?**
+How does the labelling behavior in the comments change over time?
 
-Research Question #2
+**Research Question #2
 
-**How does gender affect the labeling behavior in the comments over time?**
+How does gender affect the labeling behavior in the comments over time?
 
 
 # Data Sources
