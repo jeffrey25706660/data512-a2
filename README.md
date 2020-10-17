@@ -11,6 +11,8 @@ How does gender affect the labeling behavior in the comments over time?
 
 
 # Data Sources
+The annotated datasets provided here is used to train machine learning models part of a project called Conversation AI. The trained models can be accessed through [Perspective API](https://github.com/conversationai/perspectiveapi/blob/master/2-api/methods.md)
+
 The data sources can be downloaded on [Figshare](https://figshare.com/projects/Wikipedia_Talk/16731), per Wikipedia Detox project [access policy](https://foundation.wikimedia.org/wiki/Open_access_policy). 
 
 For each annotated corpora, there are three files:
@@ -24,7 +26,7 @@ For each annotated corpora, there are three files:
 For complete information of dataset description and schemas, please visit [here](https://meta.wikimedia.org/wiki/Research:Detox/Data_Release).
 
 # Output Schema
-The data output (agg_att_data.csv.csv) combines aggression, attack, and worker demographic data. It includes nineteen columns with the definition as follows:
+The data output (agg_att_data.csv.csv) for this assignment combines aggression, attack, and worker demographic data. It includes nineteen columns with the definition as follows:
 Column | Description | 
 --- | --- |
 rev_id |MediaWiki revision id of the edit that added the comment to a talk page  | 
