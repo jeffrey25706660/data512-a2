@@ -29,6 +29,11 @@ Column | Description |
 --- | --- |
 rev_id |MediaWiki revision id of the edit that added the comment to a talk page  | 
 comment | Comment text | 
+year | The year the comment was posted in | 
+logged_in | Indicator for whether the user who made the comment was logged in. Takes on values in {0, 1} | 
+ns | Namespace of the discussion page the comment was made in. Takes on values in {user, article} | 
+sample| Indicates whether the comment came via random sampling of all comments. Takes on values in {random, blocked}|
+split| Takes on values in {train, dev, test}|
 
 
 
