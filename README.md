@@ -12,7 +12,7 @@ For each annotated corpora, there are three files:
 
 3. **{attack/aggression}_worker_demographics.tsv**: Basic anonymized demographic information about on the crowdworkers who provided the labels.
 
-For complete information of dataset description and schemas, please visit [here](https://meta.wikimedia.org/wiki/Research:Detox/Data_Release)
+For complete information of dataset description and schemas, please visit [here](https://meta.wikimedia.org/wiki/Research:Detox/Data_Release).
 
 # Output Schema
 
