@@ -7,7 +7,9 @@ The data sources can be downloaded on [Figshare](https://figshare.com/projects/W
 For each annotated corpora, there are three files:
 
 1.{attack/aggression}_annotated_comments.tsv: the raw revisions and derived comments that were labelled by crowdworkers.
+
 2.{attack/aggression}_annotations.tsv: the annotations labeled by several crowdworkers for each comment in {attack/aggression/toxicity}_annotated_comments.tsv.
+
 3.{attack/aggression}_worker_demographics.tsv: To help understand the generality of the crowd-worker labels, we conducted a survey to get some basic anonymized demographic information about on the crowdworkers who provided the labels.
 
 See the License section below for important legal information.
