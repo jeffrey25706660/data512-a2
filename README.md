@@ -34,8 +34,19 @@ logged_in | Indicator for whether the user who made the comment was logged in. T
 ns | Namespace of the discussion page the comment was made in. Takes on values in {user, article} | 
 sample| Indicates whether the comment came via random sampling of all comments. Takes on values in {random, blocked}|
 split| Takes on values in {train, dev, test}|
-
-
+worker_id| Anonymized crowd-worker id.|
+gender| Takes a value in {'male', 'female', and 'other'}.|
+english_first_language| Does the crowd-worker describe English as their first language. Takes a value in {0, 1}.|
+age_group| The age group of the crowd-worker. Takes on values in {'Under 18', '18-30', '30-45', '45-60', 'Over 60'}|
+education|Takes on values in {'none', 'some', 'hs', 'bachelors', 'masters', 'doctorate', 'professional'}.|
+worker_id| Anonymized crowd-worker id.|
+aggression_score| Categorical variable ranging from very aggressive (-2), to neutral (0), to very friendly (2).|
+aggression| Indicator variable for whether the worker thought the comment has an aggressive tone.| 
+quoting_attack| Indicator for whether the worker thought the comment is quoting or reporting a personal attack that originated in a different comment.|
+recipient_attack| Indicator for whether the worker thought the comment contains a personal attack directed at the recipient of the comment.|
+third_party_attack| Indicator for whether the worker thought the comment contains a personal attack directed at a third party.|
+other_attack| Indicator for whether the worker thought the comment contains a personal attack but is not quoting attack, a recipient attack or third party attack.|
+attack| The annotation takes on value 0 if the worker selected the option "This is not an attack or harassment" and value 1 otherwise.|
 
 
 # Notes
