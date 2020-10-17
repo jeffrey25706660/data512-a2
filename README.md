@@ -53,4 +53,4 @@ attack| The annotation takes on value 0 if the worker selected the option "This 
 
 
 # License
-Wikimedia Foundation [Term of Use](https://www.mediawiki.org/wiki/Wikimedia_REST_API#Terms_and_conditions) and [Privacy Policy](https://foundation.wikimedia.org/wiki/Privacy_policy)
+Wikimedia Foundation [License](https://wiki.creativecommons.org/wiki/CC0)
