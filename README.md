@@ -61,8 +61,5 @@ attack| The annotation takes on value 0 if the worker selected the option "This 
 
 For complete information of attribute description, please visit [here](https://meta.wikimedia.org/wiki/Research:Detox/Data_Release)
 
-# Notes
-
-
 # License
 Wikimedia Foundation [License](https://wiki.creativecommons.org/wiki/CC0)
