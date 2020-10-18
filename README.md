@@ -14,6 +14,7 @@ How does gender affect the labeling behavior in the comments over time?
 
 ![alt text](https://github.com/jeffrey25706660/data512-a2/blob/main/graphs/attack%20%26%20aggresion%20score%20by%20gender.png)
 ![alt text](https://github.com/jeffrey25706660/data512-a2/blob/main/graphs/Average%20Aggression%20Score%20by%20Gender.jpg?raw=true)
+![alt text](https://github.com/jeffrey25706660/data512-a2/blob/main/graphs/Average%20Attack%20Score%20by%20Gender.jpg)
 
 # Data Sources
 
