@@ -11,7 +11,7 @@ How does the labelling behavior in the comments change over time?
 **Research Question #2**
 
 How does gender affect the labeling behavior in the comments over time?
-
+![alt text](https://github.com/jeffrey25706660/data512-a2/blob/main/graphs/Average%20Aggression%20Score%20by%20Gender.jpg?raw=true)
 
 # Data Sources
 
