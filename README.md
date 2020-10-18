@@ -8,6 +8,8 @@ The goal of this assignment is to perform a self-directed exploratory data analy
 
 How does the labelling behavior in the comments change over time?
 
+![alt text](https://github.com/jeffrey25706660/data512-a2/blob/main/graphs/Average%20Aggression%20%26%20Attack%20Score%20by%20time.jpg)
+
 **Research Question #2**
 
 How does gender affect the labeling behavior in the comments over time?
