@@ -22,6 +22,8 @@ How does gender affect the labeling behavior in the comments over time?
 
 The data sources can be downloaded on [Figshare](https://figshare.com/projects/Wikipedia_Talk/16731), per Wikipedia Detox project [access policy](https://foundation.wikimedia.org/wiki/Open_access_policy). 
 
+For this assignment, we choose Personal Attacks and Aggression data for analysis. 
+
 For each annotated corpora, there are three files:
 
 1. **{attack/aggression}_annotated_comments.tsv**: Raw revisions and derived comments that were labelled by crowdworkers.
@@ -33,7 +35,7 @@ For each annotated corpora, there are three files:
 For complete information of dataset description and schemas, please visit [here](https://meta.wikimedia.org/wiki/Research:Detox/Data_Release).
 
 # Output Schema
-For this assignment, the data output (agg_att_data.rar) combines aggression, attack, and worker demographic data. It includes nineteen columns with the definition as follows:
+The data output (agg_att_data.rar) combines aggression, attack, and worker demographic data. It includes nineteen columns with the definition as follows:
 Column | Description | 
 --- | --- |
 rev_id |MediaWiki revision id of the edit that added the comment to a talk page  | 
