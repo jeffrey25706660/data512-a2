@@ -1,6 +1,6 @@
 # Assignment 2: Bias in data
 
-The annotated datasets from Wikipedia Talk Corpus are used to train machine learning models part of a project called Conversation AI. The trained models can be accessed through [Perspective API](https://github.com/conversationai/perspectiveapi/blob/master/2-api/methods.md)
+The annotated datasets from Wikipedia Talk Corpus are used to train machine learning models as part of a project called Conversation AI. The trained models can be accessed through [Perspective API](https://github.com/conversationai/perspectiveapi/blob/master/2-api/methods.md)
 
 The goal of this assignment is to perform a self-directed exploratory data analysis and identify potential sources of bias in attack data and aggression data  and describe how such bias could lead to potential unintended negative outcomes using machine learning models.
 
