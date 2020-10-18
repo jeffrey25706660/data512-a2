@@ -31,7 +31,7 @@ For each annotated corpora, there are three files:
 For complete information of dataset description and schemas, please visit [here](https://meta.wikimedia.org/wiki/Research:Detox/Data_Release).
 
 # Output Schema
-For this assignment, the data output (agg_att_data.csv.csv) combines aggression, attack, and worker demographic data. It includes nineteen columns with the definition as follows:
+For this assignment, the data output (agg_att_data.rar) combines aggression, attack, and worker demographic data. It includes nineteen columns with the definition as follows:
 Column | Description | 
 --- | --- |
 rev_id |MediaWiki revision id of the edit that added the comment to a talk page  | 
