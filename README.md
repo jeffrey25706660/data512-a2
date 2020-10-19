@@ -1,12 +1,12 @@
 # Assignment 2: Bias in data
 
-The annotated datasets from Wikipedia Talk Corpus are used to train machine learning models as part of a project called Conversation AI. The trained models can be accessed through [Perspective API](https://github.com/conversationai/perspectiveapi/blob/master/2-api/methods.md)
+The annotated datasets from Wikipedia Talk Corpus are used to train machine learning models as part of Google’s [Conversation AI project](https://conversationai.github.io/). The trained models can be accessed through [Perspective API](https://github.com/conversationai/perspectiveapi/blob/master/2-api/methods.md).
 
 The goal of this assignment is to perform a self-directed exploratory data analysis and identify potential sources of bias in attack data and aggression data  and describe how such bias could lead to potential unintended negative outcomes using machine learning models.
 
 **Research Question #1**
 
-How does the labelling behavior in the comments change over time?
+How does the labeling behavior in the comments change over time?
 
 ![alt text](https://github.com/jeffrey25706660/data512-a2/blob/main/graphs/Average%20Aggression%20%26%20Attack%20Score%20by%20time.jpg)
 
@@ -30,12 +30,12 @@ For each annotated corpora, there are three files:
 
 2. **{attack/aggression}_annotations.tsv**: Annotations labeled by several crowdworkers for each comment in {attack/aggression}_annotated_comments.tsv.
 
-3. **{attack/aggression}_worker_demographics.tsv**: Basic anonymized demographic information about on the crowdworkers who provided the labels.
+3. **{attack/aggression}_worker_demographics.tsv**: Basic anonymized demographic information about the crowdworkers who provided the labels.
 
-For complete information of dataset description and schemas, please visit [here](https://meta.wikimedia.org/wiki/Research:Detox/Data_Release).
+For a complete information of dataset description and schemas, please visit [here](https://meta.wikimedia.org/wiki/Research:Detox/Data_Release).
 
 # Output Schema
-The data output (agg_att_data.rar) combines aggression, attack, and worker demographic data. It includes nineteen columns with the definition as follows:
+The data output (agg_att_data.rar) combines aggression, attack, and worker demographic data. It includes nineteen columns with the definition as below. For a complete information of dataset description and schemas, please visit [here](https://meta.wikimedia.org/wiki/Research:Detox/Data_Release).
 Column | Description | 
 --- | --- |
 rev_id |MediaWiki revision id of the edit that added the comment to a talk page  | 
@@ -59,7 +59,6 @@ third_party_attack| Indicator for whether the worker thought the comment contain
 other_attack| Indicator for whether the worker thought the comment contains a personal attack but is not quoting attack, a recipient attack or third party attack.|
 attack| The annotation takes on value 0 if the worker selected the option "This is not an attack or harassment" and value 1 otherwise.|
 
-For complete information of attribute description, please visit [here](https://meta.wikimedia.org/wiki/Research:Detox/Data_Release)
 
 # License
 Wikimedia Foundation [License](https://wiki.creativecommons.org/wiki/CC0)
