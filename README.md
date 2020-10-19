@@ -32,10 +32,10 @@ For each annotated corpora, there are three files:
 
 3. **{attack/aggression}_worker_demographics.tsv**: Basic anonymized demographic information about the crowdworkers who provided the labels.
 
-For complete information of dataset description and schemas, please visit [here](https://meta.wikimedia.org/wiki/Research:Detox/Data_Release).
+For a complete information of dataset description and schemas, please visit [here](https://meta.wikimedia.org/wiki/Research:Detox/Data_Release).
 
 # Output Schema
-The data output (agg_att_data.rar) combines aggression, attack, and worker demographic data. It includes nineteen columns with the definition as follows:
+The data output (agg_att_data.rar) combines aggression, attack, and worker demographic data. It includes nineteen columns with the definition as below. For a complete information of dataset description and schemas, please visit [here](https://meta.wikimedia.org/wiki/Research:Detox/Data_Release).
 Column | Description | 
 --- | --- |
 rev_id |MediaWiki revision id of the edit that added the comment to a talk page  | 
@@ -59,7 +59,6 @@ third_party_attack| Indicator for whether the worker thought the comment contain
 other_attack| Indicator for whether the worker thought the comment contains a personal attack but is not quoting attack, a recipient attack or third party attack.|
 attack| The annotation takes on value 0 if the worker selected the option "This is not an attack or harassment" and value 1 otherwise.|
 
-For complete information of attribute description, please visit [here](https://meta.wikimedia.org/wiki/Research:Detox/Data_Release)
 
 # License
 Wikimedia Foundation [License](https://wiki.creativecommons.org/wiki/CC0)
